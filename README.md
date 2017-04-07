@@ -18,13 +18,20 @@ https://github.com/RevolutionAnalytics/AzureML
 
 Install R packages from snapshots on checkpoint-server
 
-https://github.com/revolutionanalytics/checkpoint
+---
 
-[![Build Status](https://travis-ci.org/RevolutionAnalytics/checkpoint.svg?branch=master)](https://travis-ci.org/RevolutionAnalytics/checkpoint)
-[![Build Status](https://travis-ci.org/RevolutionAnalytics/checkpoint.svg?branch=dev)](https://travis-ci.org/RevolutionAnalytics/checkpoint)
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/checkpoint)](http://cran.r-project.org/package=checkpoint)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/checkpoint)](http://www.r-pkg.org/pkg/checkpoint)
-[![Coverage Status](https://img.shields.io/codecov/c/github/RevolutionAnalytics/checkpoint/master.svg)](https://codecov.io/github/RevolutionAnalytics/checkpoint?branch=master)
+
+---
+
+master: [![Build Status](https://travis-ci.org/RevolutionAnalytics/checkpoint.svg?branch=master)](https://travis-ci.org/RevolutionAnalytics/checkpoint)
+[![Coverage Status master](https://img.shields.io/codecov/c/github/RevolutionAnalytics/checkpoint/master.svg)](https://codecov.io/github/RevolutionAnalytics/checkpoint?branch=master)
+dev: [![Build Status](https://travis-ci.org/RevolutionAnalytics/checkpoint.svg?branch=dev)](https://travis-ci.org/RevolutionAnalytics/checkpoint)
+[![Coverage Status dev](https://img.shields.io/codecov/c/github/RevolutionAnalytics/checkpoint/dev.svg)](https://codecov.io/github/RevolutionAnalytics/checkpoint?branch=dev)
+
+---
 
 
 ## miniCRAN

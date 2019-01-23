@@ -100,7 +100,7 @@ status](https://ci.appveyor.com/api/projects/status/github/gaborcsardi/secret?sv
 [![CRAN RStudio mirror
 downloads](http://cranlogs.r-pkg.org/badges/secret)](http://www.r-pkg.org/pkg/secret)
 [![Coverage
-Status](https://img.shields.io/codecov/c/github/andrie/secret/master.svg)](https://codecov.io/github/andrie/secret?branch=master)
+Status](https://img.shields.io/codecov/c/github/gaborcsardi/secret/master.svg)](https://codecov.io/github/gaborcsardi/secret?branch=master)
 
 ## rfordummies
 

@@ -7,7 +7,7 @@ Andrie’s dashboard with status of R packages on CRAN
 
 R package to create internally consistent, mini version of CRAN
 
-<https://github.com/andrie/miniCRAN>
+<https://github.com/andrie/miniCRAN> ([pkgdown](https://andrie.github.io/miniCRAN/))
 
 [![Build
 Status](https://travis-ci.org/andrie/miniCRAN.svg?branch=master)](https://travis-ci.org/andrie/miniCRAN)
@@ -57,7 +57,7 @@ downloads](http://cranlogs.r-pkg.org/badges/ggdendro)](http://www.r-pkg.org/pkg/
 The `surveydata` package makes it easy to work with typical survey data
 that originated in SPSS or other formats.
 
-<https://github.com/andrie/surveydata>
+<https://github.com/andrie/surveydata> ([pkgdown](https://andrie.github.io/surveydata/))
 
 master: [![master build
 status](https://travis-ci.org/andrie/surveydata.svg?branch=master)](https://travis-ci.org/andrie/surveydata)
@@ -73,7 +73,7 @@ Status](https://img.shields.io/codecov/c/github/andrie/surveydata/master.svg)](h
 
 The `rrd` package allows you to read data from an RRD database.
 
-<https://github.com/andrie/rrd>
+<https://github.com/andrie/rrd> ([pkgdown](https://andrie.github.io/rrd/))
 
 [![Build
 Status](https://travis-ci.org/andrie/rrd.svg?branch=master)](https://travis-ci.org/andrie/rrd)
@@ -106,7 +106,7 @@ Status](https://img.shields.io/codecov/c/github/gaborcsardi/secret/master.svg)](
 
 An R package to accompany the book “R for Dummies”
 
-<https://github.com/andrie/rfordummies>
+<https://github.com/andrie/rfordummies> ([pkgdown](https://andrie.github.io/rfordummies/))
 
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively

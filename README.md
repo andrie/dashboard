@@ -1,164 +1,104 @@
-Dashboard of packages on CRAN
-================
+# Dashboard of packages on CRAN
+
 
 Andrie’s dashboard with status of R packages on CRAN
 
 ## miniCRAN
 
-R package to create internally consistent, mini version of CRAN
-
 <https://github.com/andrie/miniCRAN>
 
-[![Build
-Status](https://travis-ci.org/andrie/miniCRAN.svg?branch=master)](https://travis-ci.org/andrie/miniCRAN)
-[![Build
-Status](https://travis-ci.org/andrie/miniCRAN.svg?branch=dev)](https://travis-ci.org/andrie/miniCRAN)
-[![](http://www.r-pkg.org/badges/version/miniCRAN)](http://www.r-pkg.org/pkg/miniCRAN)
+Title: Create a Mini Version of CRAN Containing Only Selected Packages
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/miniCRAN.png)](https://CRAN.R-project.org/package=miniCRAN)
+[![R-CMD-check](https://github.com/andrie/miniCRAN/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/andrie/miniCRAN/actions/workflows/R-CMD-check.yaml)
+[![Code
+coverage](https://codecov.io/gh/andrie/miniCRAN/branch/main/graph/badge.svg)](https://app.codecov.io/gh/andrie/miniCRAN?branch=main)
 [![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/miniCRAN)](http://www.r-pkg.org/pkg/miniCRAN)
-[![Coverage
-Status](https://img.shields.io/codecov/c/github/andrie/miniCRAN/master.svg)](https://codecov.io/github/andrie/miniCRAN?branch=master)
+downloads](https://cranlogs.r-pkg.org/badges/miniCRAN.png)](https://www.r-pkg.org/pkg/miniCRAN)
 
 ## sss
 
-Import triple-s survey files into R
-
 <https://github.com/andrie/sss>
 
-master: [![master build
-status](https://travis-ci.org/andrie/sss.svg?branch=master)](https://travis-ci.org/andrie/sss)
-dev: [![dev build
-status](https://travis-ci.org/andrie/sss.svg?branch=dev)](https://travis-ci.org/andrie/sss)
-[![](http://www.r-pkg.org/badges/version/sss)](http://www.r-pkg.org/pkg/sss)
+Title: Import Files in the Triple-s (Standard Survey Structure) Format
+
+[![R-CMD-check](https://github.com/andrie/sss/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/andrie/sss/actions/workflows/R-CMD-check.yaml)
 [![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/sss)](http://www.r-pkg.org/pkg/secret)
-[![Coverage
-Status](https://img.shields.io/codecov/c/github/andrie/sss/master.svg)](https://codecov.io/github/andrie/sss?branch=master)
+downloads](https://cranlogs.r-pkg.org/badges/sss.png)](https://www.r-pkg.org/pkg/sss)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/sss.png)](https://CRAN.R-project.org/package=sss)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
+[![Codecov test
+coverage](https://codecov.io/gh/andrie/sss/branch/main/graph/badge.svg)](https://app.codecov.io/gh/andrie/sss?branch=main)
 
 ## ggdendro
 
-Tools to extract dendrogram plot data for use with ggplot
-
 <https://github.com/andrie/ggdendro>
 
-[![Project Status: Active - The project has reached a stable, usable
-state and is being actively
-developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-master:
-[<img src="https://travis-ci.org/andrie/ggdendro.svg?branch=master" alt="Build Status" />](https://travis-ci.org/andrie/ggdendro)
-dev:
-[<img src="https://travis-ci.org/andrie/ggdendro.svg?branch=dev" alt="Build Status" />](https://travis-ci.org/andrie/ggdendro)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/ggdendro)](http://cran.r-project.org/package=ggdendro)
+Title: Create Dendrograms and Tree Diagrams Using ‘ggplot2’
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/ggdendro.png)](https://CRAN.R-project.org/package=ggdendro)
+[![R-CMD-check](https://github.com/andrie/ggdendro/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/andrie/ggdendro/actions/workflows/R-CMD-check.yaml)
 [![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/ggdendro)](http://www.r-pkg.org/pkg/ggdendro)
+downloads](http://cranlogs.r-pkg.org/badges/ggdendro.png)](http://www.r-pkg.org/pkg/ggdendro)
+[![Codecov test
+coverage](https://codecov.io/gh/andrie/ggdendro/branch/main/graph/badge.svg)](https://app.codecov.io/gh/andrie/ggdendro?branch=main)
+[![Project Status: Inactive – The project has reached a stable, usable
+state but is no longer being actively developed; support/maintenance
+will be provided as time
+allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 
 ## surveydata
 
-The `surveydata` package makes it easy to work with typical survey data
-that originated in SPSS or other formats.
-
 <https://github.com/andrie/surveydata>
 
-master: [![master build
-status](https://travis-ci.org/andrie/surveydata.svg?branch=master)](https://travis-ci.org/andrie/surveydata)
-dev: [![dev build
-status](https://travis-ci.org/andrie/surveydata.svg?branch=dev)](https://travis-ci.org/andrie/surveydata)
-[![](http://www.r-pkg.org/badges/version/surveydata)](http://www.r-pkg.org/pkg/surveydata)
+Title: Tools to Work with Survey Data
+
+[![R build
+status](https://github.com/andrie/surveydata/workflows/R-CMD-check/badge.svg)](https://github.com/andrie/surveydata/actions)
+[![](http://www.r-pkg.org/badges/version/surveydata.png)](http://www.r-pkg.org/pkg/surveydata)
 [![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/surveydata)](http://www.r-pkg.org/pkg/surveydata)
+downloads](http://cranlogs.r-pkg.org/badges/surveydata.png)](http://www.r-pkg.org/pkg/surveydata)
 [![Coverage
-Status](https://img.shields.io/codecov/c/github/andrie/surveydata/master.svg)](https://codecov.io/github/andrie/surveydata?branch=master)
+Status](http://img.shields.io/codecov/c/github/andrie/surveydata/main.svg)](https://codecov.io/github/andrie/surveydata?branch=main)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/surveydata.png)](https://CRAN.R-project.org/package=surveydata)
 
 ## rrd
 
-The `rrd` package allows you to read data from an RRD database.
-
 <https://github.com/andrie/rrd>
 
-[![Build
-Status](https://travis-ci.org/andrie/rrd.svg?branch=master)](https://travis-ci.org/andrie/rrd)
+Title: Import Data from a RRD (Round Robin Database) File
+
+[![R build
+status](https://github.com/andrie/rrd/workflows/R-CMD-check/badge.svg)](https://github.com/andrie/rrd/actions)
 [![CRAN
-status](https://www.r-pkg.org/badges/version/rrd)](https://cran.r-project.org/package=rrd)
-[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-[![](http://www.r-pkg.org/badges/version/rrd)](http://www.r-pkg.org/pkg/rrd)
+status](https://www.r-pkg.org/badges/version/rrd.png)](https://cran.r-project.org/package=rrd)
+[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html)
+[![](http://www.r-pkg.org/badges/version/rrd.png)](https://www.r-pkg.org:443/pkg/rrd)
 [![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/rrd)](http://www.r-pkg.org/pkg/rrd)
-[![Coverage
-Status](https://img.shields.io/codecov/c/github/andrie/rrd/master.svg)](https://codecov.io/github/andrie/rrd?branch=master)
-
-## secret
-
-🔐 Secure sharing of sensitive information in R packages
-
-<https://github.com/gaborcsardi/secret>
-
-[![Linux Build
-Status](https://travis-ci.org/gaborcsardi/secret.svg?branch=master)](https://travis-ci.org/gaborcsardi/secret)
-[![Windows Build
-status](https://ci.appveyor.com/api/projects/status/github/gaborcsardi/secret?svg=true)](https://ci.appveyor.com/project/gaborcsardi/secret)
-[![](http://www.r-pkg.org/badges/version/secret)](http://www.r-pkg.org/pkg/secret)
-[![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/secret)](http://www.r-pkg.org/pkg/secret)
-[![Coverage
-Status](https://img.shields.io/codecov/c/github/gaborcsardi/secret/master.svg)](https://codecov.io/github/gaborcsardi/secret?branch=master)
+downloads](http://cranlogs.r-pkg.org/badges/rrd.png)](https://www.r-pkg.org:443/pkg/rrd)
+[![Codecov test
+coverage](https://codecov.io/gh/andrie/rrd/branch/main/graph/badge.svg)](https://app.codecov.io/gh/andrie/rrd?branch=main)
 
 ## rfordummies
 
-An R package to accompany the book “R for Dummies”
-
 <https://github.com/andrie/rfordummies>
 
-[![Project Status: Active - The project has reached a stable, usable
-state and is being actively
-developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-master:
-[<img src="https://travis-ci.org/andrie/rfordummies.svg" alt="Build Status" />](https://travis-ci.org/andrie/rfordummies)
-dev:
-[<img src="https://travis-ci.org/andrie/rfordummies.svg?branch=dev" alt="Build Status" />](https://travis-ci.org/andrie/rfordummies)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rfordummies)](http://cran.r-project.org/package=rfordummies)
-[![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/rfordummies)](http://www.r-pkg.org/pkg/rfordummies)
-
------
-
-# Microsoft
-
-## AzureML
-
-An R interface to AzureML(<https://studio.azureml.net/>) experiments,
-datasets, and web services.
-
-<https://github.com/RevolutionAnalytics/AzureML>
+Title: Code Examples to Accompany the Book “R for Dummies”
 
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
-developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/AzureML)](http://cran.r-project.org/package=AzureML)
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/rfordummies.png)](https://cran.r-project.org/package=rfordummies)
+[![R-CMD-check](https://github.com/rfordummies/rfordummies/workflows/R-CMD-check/badge.svg)](https://github.com/rfordummies/rfordummies/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/rfordummies/rfordummies/branch/main/graph/badge.svg)](https://app.codecov.io/gh/rfordummies/rfordummies?branch=main)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/rfordummies.png)](https://CRAN.R-project.org/package=rfordummies)
 [![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/AzureML)](http://www.r-pkg.org/pkg/AzureML)
-
-## checkpoint
-
-Install R packages from snapshots on checkpoint-server
-
-[![Project Status: Active - The project has reached a stable, usable
-state and is being actively
-developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/checkpoint)](http://cran.r-project.org/package=checkpoint)
-[![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/checkpoint)](http://www.r-pkg.org/pkg/checkpoint)
-
-master: [![Build
-Status](https://travis-ci.org/RevolutionAnalytics/checkpoint.svg?branch=master)](https://travis-ci.org/RevolutionAnalytics/checkpoint)
-[![Coverage Status
-master](https://img.shields.io/codecov/c/github/RevolutionAnalytics/checkpoint/master.svg)](https://codecov.io/github/RevolutionAnalytics/checkpoint?branch=master)
-dev: [![Build
-Status](https://travis-ci.org/RevolutionAnalytics/checkpoint.svg?branch=dev)](https://travis-ci.org/RevolutionAnalytics/checkpoint)
-[![Coverage Status
-dev](https://img.shields.io/codecov/c/github/RevolutionAnalytics/checkpoint/dev.svg)](https://codecov.io/github/RevolutionAnalytics/checkpoint?branch=dev)
-
-## AzureSMR
-
-R Package for managing a selection of Azure resources
-
-<https://github.com/microsoft/azuresmr>
+downloads](https://cranlogs.r-pkg.org/badges/last-month/rfordummies?color=blue.png)](https://r-pkg.org/pkg/rfordummies)

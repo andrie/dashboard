@@ -5,7 +5,13 @@ Andrie’s dashboard with status of R packages on CRAN
 
 ## miniCRAN
 
+<<<<<<< HEAD
 <https://github.com/andrie/miniCRAN>
+=======
+R package to create internally consistent, mini version of CRAN
+
+<https://github.com/andrie/miniCRAN> ([pkgdown](https://andrie.github.io/miniCRAN/))
+>>>>>>> b279ebaa59f4fe160160071b89db63a5798c78dc
 
 Title: Create a Mini Version of CRAN Containing Only Selected Packages
 
@@ -53,7 +59,14 @@ allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.rep
 
 ## surveydata
 
+<<<<<<< HEAD
 <https://github.com/andrie/surveydata>
+=======
+The `surveydata` package makes it easy to work with typical survey data
+that originated in SPSS or other formats.
+
+<https://github.com/andrie/surveydata> ([pkgdown](https://andrie.github.io/surveydata/))
+>>>>>>> b279ebaa59f4fe160160071b89db63a5798c78dc
 
 Title: Tools to Work with Survey Data
 
@@ -69,7 +82,13 @@ status](https://www.r-pkg.org/badges/version/surveydata.png)](https://CRAN.R-pro
 
 ## rrd
 
+<<<<<<< HEAD
 <https://github.com/andrie/rrd>
+=======
+The `rrd` package allows you to read data from an RRD database.
+
+<https://github.com/andrie/rrd> ([pkgdown](https://andrie.github.io/rrd/))
+>>>>>>> b279ebaa59f4fe160160071b89db63a5798c78dc
 
 Title: Import Data from a RRD (Round Robin Database) File
 
@@ -86,7 +105,13 @@ coverage](https://codecov.io/gh/andrie/rrd/branch/main/graph/badge.svg)](https:/
 
 ## rfordummies
 
+<<<<<<< HEAD
 <https://github.com/andrie/rfordummies>
+=======
+An R package to accompany the book “R for Dummies”
+
+<https://github.com/andrie/rfordummies> ([pkgdown](https://andrie.github.io/rfordummies/))
+>>>>>>> b279ebaa59f4fe160160071b89db63a5798c78dc
 
 Title: Code Examples to Accompany the Book “R for Dummies”
 

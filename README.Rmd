@@ -2,6 +2,7 @@
 title: "Dashboard of packages on CRAN"
 output: github_document
 format: gfm
+default-image-extension: ""
 ---
 
 ```{r setup, include=FALSE}
@@ -97,3 +98,44 @@ get_badges("rrd")
 #| output: asis
 get_badges("rfordummies", "rfordummies")
 ```
+
+# Posit
+
+## config
+
+
+<https://github.com/rstudio/config>
+
+```{r}
+#| echo: FALSE
+#| output: asis
+get_badges("config", "rstudio")
+```
+```
+
+
+## sortable
+
+<https://github.com/rstudio/sortable>
+
+```{r}
+#| echo: FALSE
+#| output: asis
+get_badges("sortable", "rstudio")
+```
+
+
+
+
+## nomnoml
+
+<https://github.com/rstudio/nomnoml>
+
+```{r}
+#| echo: FALSE
+#| output: asis
+get_badges("nomnoml", "rstudio")
+```
+
+
+
